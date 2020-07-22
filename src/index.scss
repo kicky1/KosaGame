@@ -4,14 +4,34 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-.playerBox{
+.goldbox{
   background-color: aquamarine;
+  width:100%;
+  margin-bottom:10px;
 }
 
-.champion{
-  margin-top: 10px;
+.dmgbox{
+  margin-bottom:10px;
   background-color: greenyellow;
-  width: 50%;
+  width: 100%;
 
 }
 
+.enemy{
+  margin-top: 50%;
+  width: 100%;
+}
+
+.attackbutton{
+  border:0;
+
+}
+
+button{
+  background-color: transparent;
+  outline-color: transparent;
+  outline-width: 0px;
+  border:0px;
+
+
+}
