@@ -5,16 +5,25 @@ body {
 }
 
 .goldbox{
-  background-color: aquamarine;
+  background-color: gold;
   width:100%;
   margin-bottom:10px;
+  border-radius: 15px;
+
 }
 
 .dmgbox{
   margin-bottom:10px;
-  background-color: greenyellow;
+  background-color: rgb(100, 180, 104);
   width: 100%;
+  border-radius: 20px;
 
+}
+.background{
+background-image: inherit;
+background-position: center;
+background-size: cover;
+background-Repeat: no-repeat;
 }
 
 .enemy{
@@ -24,7 +33,6 @@ body {
 
 .attackbutton{
   border:0;
-
 }
 
 button{
