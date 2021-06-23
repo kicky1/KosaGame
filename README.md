@@ -1,3 +1,3 @@
-#Kosa Game
+# Kosa Game
 
 ## Simple autoclicker in React
